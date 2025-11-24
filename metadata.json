@@ -1,0 +1,5 @@
+{
+  "name": "JobFinder AI",
+  "description": "An intelligent job search assistant powered by Gemini that searches the web for real-time job openings and provides direct application links.",
+  "requestFramePermissions": []
+}
